@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/be832922391491.58c25558f0fe7.gif)
 <h1 align="center">Hi 👋, I'm Shaheen Parween</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt="coding (female)" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shAhEEnnnn&label=Profile%20views&color=0e75b6&style=flat" alt="shAhEEnnnn" /> </p>
@@ -11,11 +11,8 @@
 
 - 💬 Ask me about **PHP, HTML, CSS**
 
-- 📫 How to reach me **satyendrasharmasatya4@gmail.com** <!-- change this if you want Shaheen's email -->
+- 📫 How to reach me **shaheenamanat810@gmail.com** <!-- change this if you want Shaheen's email -->
 
-- ⚡ Fun fact **I think I'm funny.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
