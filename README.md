@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript,React etc.**
 
-- 💬 Ask me about ** HTML, CSS,Javascript,React,MySQL,Java**
+- 💬 Ask me about **HTML, CSS,Javascript,React,MySQL,Java**
 
 - 📫 How to reach me **shaheenamanat810@gmail.com** <!-- change this if you want Shaheen's email -->
 
