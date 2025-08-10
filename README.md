@@ -50,4 +50,4 @@ I love crafting clean code, solving logical puzzles, and exploring new technolog
 
 ---
 
-### ✨ *"Code is like humor. When you have to explain it, it’s bad."*  
+
