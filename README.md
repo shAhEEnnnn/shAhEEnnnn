@@ -1,39 +1,53 @@
-# Hi there, I'm Shaheen Parween 👋
+<!-- Profile Banner -->
+![Welcome Banner](https://i.ibb.co/3sHr7PR/welcome-github-banner.gif)
 
-Welcome to my GitHub profile!  
-I’m passionate about **coding, problem-solving, and building projects** that make a difference.
+# 👋 Hey there, I'm **Shaheen Parween**  
+
+💡 *Passionate Developer | Problem Solver | Lifelong Learner*  
+I love crafting clean code, solving logical puzzles, and exploring new technologies that bring ideas to life.  
 
 ---
 
 ## 🚀 About Me
-- 💻 I’m learning and working with **Java, HTML, CSS, JavaScript,React**
-- 🌱 Currently exploring **full-stack web development**
-- 🎯 Goal for 2025: Contribute to **open-source projects**
-
+- 💻 Currently working with **Java, HTML, CSS, JavaScript, React**
+- 🌱 Exploring **Full-Stack Web Development**
+- 🎯 **2025 Goal:** Contribute to impactful **Open-Source Projects**
+- ⚡ Fun fact: I believe coffee + code = productivity ☕
 
 ---
 
-## 🛠 Tech Stack
-**Languages:**  
-`Java` `HTML` `CSS` `JavaScript`  
+## 🛠 Tech Stack & Tools
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Eclipse`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
-![Shaheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shAhEEnnnn&show_icons=true&theme=tokyonight)
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shAhEEnnnn&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shAhEEnnnn&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shAhEEnnnn&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shAhEEnnnn&theme=tokyonight" alt="GitHub Streak Stats" height="165"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
-- **Email:** your-shaheenamanat810@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/shaheen-parween-4b552122b)
+## 📬 Connect with Me
+- 📧 **Email:** [shaheenamanat810@gmail.com](mailto:shaheenamanat810@gmail.com)
+- 💼 **LinkedIn:** [Shaheen Parween](https://www.linkedin.com/in/shaheen-parween-4b552122b)
 
 ---
 
-> 🌟 _"Thank You."_ –
-
+### ✨ *"Code is like humor. When you have to explain it, it’s bad."*  
