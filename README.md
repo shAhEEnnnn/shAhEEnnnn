@@ -16,31 +16,20 @@
 
 
 
-- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, React**  
+<li>- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, React**  </li>
 
 
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, React**  
+<li>- 💬 Ask me about **Java, HTML, CSS, JavaScript, React**</li>  
 
 
 
-- 📫 How to reach me **shaheenamanat810@gmail.com**  
+<li>- 📫 How to reach me **shaheenamanat810@gmail.com** </li>
 
 
 
-- 🎯 Goal for 2025: **Contribute to open-source projects**  
+<li>- 🎯 Goal for 2025: **Contribute to open-source projects** </li>li 
  
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://instagram.com/shaheen_parween" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaheen_parween" height="30" width="40" /></a>
-
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
