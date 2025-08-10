@@ -1,15 +1,16 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/be832922391491.58c25558f0fe7.gif)
 <h1 align="center">Hi 👋, I'm Shaheen Parween</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="coding (female)" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
+<!--<img align="right" alt="coding (female)" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">-->
+.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shAhEEnnnn&label=Profile%20views&color=0e75b6&style=flat" alt="shAhEEnnnn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="follow" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="follow" /></a> </p>-->
 
-- 🌱 I’m currently learning **Frameworks, PHP, Backend, etc.**
+- 🌱 I’m currently learning **Javascript,React etc.**
 
-- 💬 Ask me about **PHP, HTML, CSS**
+- 💬 Ask me about ** HTML, CSS,Javascript,React,MySQL,Java**
 
 - 📫 How to reach me **shaheenamanat810@gmail.com** <!-- change this if you want Shaheen's email -->
 
