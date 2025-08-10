@@ -1,53 +1,57 @@
-<!-- Profile Banner -->
-![Welcome Banner](https://i.ibb.co/3sHr7PR/welcome-github-banner.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/be832922391491.58c25558f0fe7.gif)
+<h1 align="center">Hi 👋, I'm Shaheen Parween</h1>
+<h3 align="center">A passionate full-stack web developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
-# 👋 Hey there, I'm **Shaheen Parween**  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shAhEEnnnn&label=Profile%20views&color=0e75b6&style=flat" alt="shAhEEnnnn" /> </p>
 
-💡 *Passionate Developer | Problem Solver | Lifelong Learner*  
-I love crafting clean code, solving logical puzzles, and exploring new technologies that bring ideas to life.  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
 
----
+- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, React**  
 
-## 🚀 About Me
-- 💻 Currently working with **Java, HTML, CSS, JavaScript, React**
-- 🌱 Exploring **Full-Stack Web Development**
-- 🎯 **2025 Goal:** Contribute to impactful **Open-Source Projects**
-- ⚡ Fun fact: I believe coffee + code = productivity ☕
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, React**  
 
----
+- 📫 How to reach me **shaheenparween@example.com**  
 
-## 🛠 Tech Stack & Tools
-**Languages & Frameworks:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🎯 Goal for 2025: **Contribute to open-source projects**  
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+- ⚡ Fun fact **I debug with coffee and a smile ☕**  
 
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shAhEEnnnn&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shAhEEnnnn&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/shaheen_parween" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaheen_parween" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shAhEEnnnn&theme=tokyonight" alt="GitHub Streak Stats" height="165"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+</a> 
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shAhEEnnnn&show_icons=true&locale=en&layout=compact" alt="shAhEEnnnn" /></p>
 
-## 📬 Connect with Me
-- 📧 **Email:** [shaheenamanat810@gmail.com](mailto:shaheenamanat810@gmail.com)
-- 💼 **LinkedIn:** [Shaheen Parween](https://www.linkedin.com/in/shaheen-parween-4b552122b)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shAhEEnnnn&show_icons=true&locale=en" alt="shAhEEnnnn" /></p>
 
----
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shAhEEnnnn&" alt="shAhEEnnnn" /></p>
